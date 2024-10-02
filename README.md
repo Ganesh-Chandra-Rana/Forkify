@@ -1,5 +1,9 @@
 🎉🎉I have published this site for getting recipies from an API with below queries.
 
+
+Site - https://forkify-ganesh.netlify.app/
+
+
 ![forkify](https://github.com/user-attachments/assets/c1cc3733-12df-483d-b33c-0bd6a3571c06)
 
 ➡Here the few search queries:
